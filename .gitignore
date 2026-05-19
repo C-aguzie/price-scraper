@@ -1,0 +1,9 @@
+# never push these
+.env
+prices.db
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+venv/
+.venv/
