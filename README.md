@@ -62,4 +62,5 @@ database.py      saves and queries prices.db
 alerts.py        sends email alerts via Gmail
 requirements.txt libraries to install
 .env.example     template for your credentials
+assets           shows the screenshot of the price history
 ```
