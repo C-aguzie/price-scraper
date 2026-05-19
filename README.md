@@ -51,7 +51,7 @@ The database grows one row per book per run — that's your price history.
 
 ## Preview
 
-![price history screenshot](assets/Screenshot 2026-05-14 143838.png)
+![price history screenshot](assets/screenshot.png)
 
 ## Files
 
